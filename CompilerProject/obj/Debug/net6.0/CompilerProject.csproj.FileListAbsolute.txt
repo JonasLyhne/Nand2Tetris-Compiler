@@ -1,0 +1,15 @@
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\CompilerProject.exe
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\CompilerProject.deps.json
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\CompilerProject.runtimeconfig.json
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\CompilerProject.dll
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\ref\CompilerProject.dll
+C:\School\Compiler\CompilerProject\bin\Debug\net6.0\CompilerProject.pdb
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.csproj.AssemblyReference.cache
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.AssemblyInfoInputs.cache
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.AssemblyInfo.cs
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.csproj.CoreCompileInputs.cache
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.dll
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\ref\CompilerProject.dll
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.pdb
+C:\School\Compiler\CompilerProject\obj\Debug\net6.0\CompilerProject.genruntimeconfig.cache
